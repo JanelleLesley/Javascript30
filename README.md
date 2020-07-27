@@ -27,7 +27,7 @@ This repo links to all 30 Javascript projects from the Javascript30 Challenge (h
 <p>24. https://github.com/JanelleLesley/sticky-nav-bar</p>
 <p>25. https://github.com/JanelleLesley/event-capture</p>
 <p>26. https://github.com/JanelleLesley/follow-along-drop-down-navigation</p>
-<p>27. </p>
+<p>27. https://github.com/JanelleLesley/click-and-drag</p>
 <p>28.</p>
 <p>29. </p>
 <p>30.</p>
