@@ -28,6 +28,6 @@ This repo provides links to all 30 Javascript projects in order from the Javascr
 <p>25. https://github.com/JanelleLesley/event-capture</p>
 <p>26. https://github.com/JanelleLesley/follow-along-drop-down-navigation</p>
 <p>27. https://github.com/JanelleLesley/click-and-drag</p>
-<p>28.</p>
+<p>28. https://github.com/JanelleLesley/video-speed-controller</p>
 <p>29. </p>
 <p>30.</p>
