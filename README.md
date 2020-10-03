@@ -1,5 +1,5 @@
 # JavaScript30
-This repo provides links to all 30 Javascript projects, in order, from the Javascript30 Challenge (https://javascript30.com/).
+This repo provides links to all 30 Javascript projects, in order, from the Javascript30 Challenge (https://javascript30.com/). Each repo provides a link to the live hosted project. Enjoy!
 
 <p>1. https://github.com/JanelleLesley/audio-key-bindings</p>
 <p>2. https://github.com/JanelleLesley/js-clock</p>
